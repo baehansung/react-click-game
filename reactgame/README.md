@@ -3,6 +3,9 @@ The Simpsons Memory Click Game - React.js
 This project uses React.js to implement a clicky game where user's will try to click on characters to accumulate points, however, each character may only be clicked once or else the points will reset back to 0, and the player must try again.
 
 
+Project can be accessed at: https://baehansung.github.io/react-click-game/
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
