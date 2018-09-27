@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "name": "Bart",
+      "image": "https://vignette.wikia.nocookie.net/p__/images/6/65/Bart_Simpson.png/revision/latest?cb=20180316200704&path-prefix=protagonist"
+    },
+    {
+      "id": 2,
+      "name": "Homer",
+      "image": "https://upload.wikimedia.org/wikiquote/he/thumb/0/02/Homer_Simpson_2006.png/225px-Homer_Simpson_2006.png"
+    },
+    {
+      "id": 3,
+      "name": "Marge",
+      "image": "https://i.pinimg.com/originals/63/e4/7d/63e47d98e66622bbff5e4578ccffeffc.png"
+    },
+    {
+      "id": 4,
+      "name": "Maggie",
+      "image": "https://vignette.wikia.nocookie.net/scratchpad/images/9/9d/Maggie_Simpson.png/revision/latest?cb=20121223225248"
+    },
+    {
+      "id": 5,
+      "name": "Lisa",
+      "image": "https://vignette.wikia.nocookie.net/simpsons/images/5/57/Lisa_Simpson2.png/revision/latest?cb=20180319000458"
+    },
+    {
+      "id": 6,
+      "name": "Mr. Burns",
+      "image": "https://assets.fxnetworks.com/cms/prod/shows/the-simpsons/photos/simpsons-character/Mr-Burns/swsb_character_fact_burns_550x960.png"
+    },
+    {
+      "id": 7,
+      "name": "Krusty",
+      "image": "https://vignette.wikia.nocookie.net/simpsons/images/e/e5/Krusty_The_Clown.png/revision/latest/scale-to-width-down/250?cb=20180630040309"
+    },
+    {
+      "id": 8,
+      "name": "Ned",
+      "image": "https://assets.fxnetworks.com/cms/prod/shows/the-simpsons/photos/swsb_character_fact_nedflanders_550x960.png"
+    },
+    {
+      "id": 9,
+      "name": "Lenny",
+      "image": "https://assets.fxnetworks.com/cms/prod/shows/the-simpsons/photos/swsb_character_fact_lenny_550x960.png"
+    },
+    {
+      "id": 10,
+      "name": "Carl",
+      "image": "https://vignette.wikia.nocookie.net/characters/images/a/a9/Carl_Carlson.png/revision/latest?cb=20170823030221"
+    },
+    {
+      "id": 11,
+      "name": "Barney",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/de/Barney_Gumble.png/220px-Barney_Gumble.png"
+    },
+    {
+      "id": 12,
+      "name": "Itchy",
+      "image": "https://static.simpsonswiki.com/images/thumb/2/24/Itchy.png/225px-Itchy.png"
+    }
+  ]
+  
